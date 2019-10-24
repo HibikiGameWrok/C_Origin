@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-C_Origin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\C_OriginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\C_Origin.cpp.obj"
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\C_OriginGameModeBase.cpp.obj"
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\C_Origin.init.gen.cpp.obj"
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\C_OriginGameModeBase.gen.cpp.obj"
+"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\Default.rc2.res"
+/OUT:"D:\UnrealProjects\hibiki\C_Origin\C_Origin\Intermediate\Build\Win64\UE4Editor\Development\C_Origin\UE4Editor-C_Origin.lib"
+/INCLUDE:IMPLEMENT_MODULE_C_Origin
